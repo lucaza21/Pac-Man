@@ -12,7 +12,5 @@ it helps to understand how to use html DOM and how to detect the boundaries of t
 # Support:
 you can contact me by email: luis.carrasquilla.z@gmail.com
 
-# Roadmap:  
-
 # License information:  
 this project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
