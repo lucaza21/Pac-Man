@@ -1,10 +1,10 @@
 # Pac-Man
 
 # Name: 
-pacman running trough the screen 
+pacman running through the screen 
   
 # Description: 
-pacman running trough the screen tries to use static images and looping through them ofr giving animation and movement direction
+pacman running through the screen tries to use static images and looping through them for giving animation and movement direction
 
 # Usage: 
 it helps to understand how to use html DOM and how to detect the boundaries of the screen
